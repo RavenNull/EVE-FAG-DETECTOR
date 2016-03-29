@@ -1,5 +1,5 @@
 import re
-print("EVE FAG DETECTOR v2.2.3")
+print("EVE FAG DETECTOR v2.2.4")
 eveName = input("What is the character's name?")
 if(eveName == "Raven Null"):
 	print("Raven Null is not a fag.")
